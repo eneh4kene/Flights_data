@@ -1,5 +1,3 @@
-Certainly! Below is a sample `README.md` file for your project. This `README.md` provides a brief overview of the project, setup instructions, usage details, and a description of the visualization feature.
-
 ### README.md
 
 ```markdown
